@@ -35,7 +35,7 @@ func Variables() {
 	fmt.Printf("\nX = %d Y = %d Z = %d", x, y, z)
 
 	var p, q = 100, "My String"
-	u, v := "U", true
+	u, v := "UU", true
 	fmt.Printf("\nP = %d Q = %s U = %s V = %v", p, q, u, v)
 
 	//Go Variable Declaration in a Block
